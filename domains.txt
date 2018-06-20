@@ -1,0 +1,16 @@
+[Brute Force] cs.dftba.com,52.39.52.87
+[DNSDB]       www.dftba.com,104.24.108.186
+[Forward DNS] dftba.com,104.24.108.186
+[VirusTotal]  creators.dftba.com,104.24.109.186
+[Brute Force] old.dftba.com,104.200.29.43
+
+Amass v1.5.2                                            Jeff Foley (@jeff_foley)
+--------------------------------------------------------------------------------
+5 names discovered - brute: 2, scrape: 2, dns: 1
+--------------------------------------------------------------------------------
+ASN: 63949 - LINODE-AP Linode, LLC, US
+	104.200.28.0/22   	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	52.36.0.0/14      	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.24.96.0/20    	3    Subdomain Name(s)
